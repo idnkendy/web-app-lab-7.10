@@ -1,0 +1,34 @@
+html{
+    margin: 20px;
+}
+
+.top-rule{
+height: 2px;
+background: #222;
+width: 80%;
+margin-bottom: 22px;
+}
+
+.username{
+    font-weight: normal;
+}
+
+.greenword{
+    color: rgb(68, 170, 68);
+    margin: 10 0px;
+}
+
+.blueword{
+    color: blue;
+    margin: 6px 0;
+    font-size: 18px;
+}
+
+.info{
+    margin: 6px 0;
+}
+
+.achievements{
+    margin: 10px 0;
+}
+
